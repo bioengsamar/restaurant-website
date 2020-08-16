@@ -22,6 +22,7 @@ h1 {
   top: 0;
   width: 100px;
   text-align: center;
+  color: black;
 }
 
 /********** desktop **********/
@@ -38,6 +39,7 @@ h1 {
   font-weight: bold;
   font-family: Helvetica;
   padding: 10px;
+  color: white;
 
 }
 
@@ -58,6 +60,7 @@ h1 {
   font-weight: bold;
   font-family: Helvetica;
   padding: 10px;
+  color: white;
 }
 
 div:nth-child(3){
@@ -67,6 +70,7 @@ div:nth-child(3){
   font-weight: bold;
   font-family: Helvetica;
   padding: 10px;
+  color: white;
 }
 }
 
@@ -85,6 +89,7 @@ div:nth-child(3){
   font-weight: bold;
   font-family: Helvetica;
   padding: 10px;
+  color: white;
 }
 
 }
